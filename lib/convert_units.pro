@@ -81,7 +81,6 @@
 ;  :History: Created on 10/20/2010
 ;  :Version: $Id:$
 ;
-;
 ;-
 FUNCTION convert_units, data, _in_unit, _out_unit, $
 	ANCDATA=ancdata, ANC_IN_UNIT=anc_in_unit
